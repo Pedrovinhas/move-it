@@ -77,7 +77,6 @@
     background: var(--white);
     color: var(--text);
     cursor: not-allowed;
-
     border-bottom: 0.25rem solid var(--green);
 
 }
