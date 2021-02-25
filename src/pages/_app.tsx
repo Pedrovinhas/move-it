@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <ChallengesProvider>
-    <Component {... pageProps}/>
+        <Component {... pageProps}/>
     </ChallengesProvider>
   )
   
