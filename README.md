@@ -1,5 +1,9 @@
-<div align="center"
-  <img src="https://github.com/Pedrovinhas/move-it/blob/master/public/logo-full.svg"/>
+<div align="center">
+<img src="https://github.com/Pedrovinhas/move-it/blob/master/public/logo-full.svg"/>
+</div>
+
+
+<div align="center">
   <h1> 🚀 Next Level Week 4! </h1>
 </div>
 
@@ -11,7 +15,7 @@
 $ git clone https://github.com/pedrovinhas/move-it.git
 
 # Acesse a pasta no projeto
-$ cd spiderman
+$ cd move-it
 
 # Instale as dependências
 $ npm install
