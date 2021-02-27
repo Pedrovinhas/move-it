@@ -23,5 +23,5 @@ $ npm run dev:server
 # or
 $ yarn dev
 
-# A porta do servidor irá abrir no console: https://localhost:3000.com
+# A porta do servidor irá abrir no console: https://localhost:3000
 ```
