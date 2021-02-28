@@ -6,14 +6,15 @@
   <h1> 🚀 Next Level Week 4! </h1>
 </div>
 
-<div align="center">
+
 <p align="center" >
 <a href="#-sobre-a-aplicacao">Sobre </a> &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-conteudo-da-trilha"> Conteúdo da Trilha</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-instalacao">Instalação</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-license">License</a>
+<a href="#-conte%C3%BAdo-da-trilha"> Conteúdo da Trilha</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-instala%C3%A7%C3%A3o">Instalação</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-licen%C3%A7a">Licença</a>
 </p>
+
 <p align="center">
 <a href="https://github.com/Pedrovinhas" target="_blank"><img src="https://img.shields.io/static/v1?label=author&message=pedrovinhas&color=8257E5&labelColor=4CD62B" alt="Github"> </a>
 <img src="https://img.shields.io/static/v1?label=languages&message=5&color=8257E5&labelColor=4CD62B" alt="Linguagens"> 
@@ -24,9 +25,9 @@
 <img src="https://img.shields.io/github/last-commit/pedrovinhas/move-it?color=8257E5&labelColor=4CD62B" alt="Commits">
 <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=4CD62B" alt="License">
 </p>
-</div>
 
-<div align="center">
+
+<div align="top">
   <img src="https://github.com/Pedrovinhas/move-it/blob/master/github/moveit-mockup.png"/>
 </div>
 
@@ -94,7 +95,7 @@ $ yarn dev
 
 # A porta do servidor irá abrir no console: https://localhost:3000
 ```
-## 📝 License
+## 📝 Licença
 
 This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 
