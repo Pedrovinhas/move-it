@@ -6,6 +6,7 @@
   <h1> 🚀 Next Level Week 4! </h1>
 </div>
 
+<div align="center">
 <p align="center" >
 <a href="#-sobre-a-aplicacao" >Sobre</a> &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,8 +14,6 @@
 <a href="#-proximo-nivel">Instalação</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-como-usar-">License</a>
 </p>
-
-<div align="center">
 <img src="https://github.com/Pedrovinhas/move-it/blob/master/github/moveit-mockup.png"/>
 </div>
 
@@ -42,23 +41,23 @@ ciclos de 25 minutos, é feita uma pausa de 30min.
 ## 📝 Conteúdo da Trilha
 
 ### React
-- [X] **create-react-app
-- [X] **SPA (Single Page Application)
-- [X] **Componentes em React
-- [X] **Context API
+- [X] **create-react-app**
+- [X] **SPA (Single Page Application)**
+- [X] **Componentes em React**
+- [X] **Context API**
 
 ### Nextjs
-- [X] **create-next-app
-- [X] **SSR (Server-Side Render)
-- [X] **SSG (Static Site Generation)
-- [X] **Entendendo a indexação por SEO e Crawlers
-- [X] **Camada intermediária em NodeJS
+- [X] **create-next-app**
+- [X] **SSR (Server-Side Render)**
+- [X] **SSG (Static Site Generation)**
+- [X] **Entendendo a indexação por SEO e Crawlers**
+- [X] **Camada intermediária em NodeJS**
 
 ## ✨ Próximo Nível
-- [ ] **Reponsividade
-- [ ] **Sidebar
-- [ ] **Darktheme
-- [ ] **Página de Login
+- [ ] **Reponsividade**
+- [ ] **Sidebar**
+- [ ] **Darktheme**
+- [ ] **Página de Login**
 
 
 ## 🛠 Como usar?
