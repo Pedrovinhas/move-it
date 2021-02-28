@@ -8,9 +8,9 @@
 
 <div align="center">
 <p align="center" >
-<a href="#-sobre-a-aplicacao" >Sobre</a> &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
+<a href="#-sobre-a-aplicacao">Sobre </a> &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-conteudo-da-trilha">Funcionalidades</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-conteudo-da-trilha"> Conteúdo da Trilha</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-instalacao">Instalação</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-license">License</a>
 </p>
@@ -22,7 +22,7 @@
 </a>
 <img src="https://img.shields.io/github/stars/pedrovinhas/move-it?color=8257E5&labelColor=4CD62B" alt="Stars">
 <img src="https://img.shields.io/github/last-commit/pedrovinhas/move-it?color=8257E5&labelColor=4CD62B" alt="Commits">
- <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=4CD62B" alt="License">
+<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=4CD62B" alt="License">
 </p>
 </div>
 
