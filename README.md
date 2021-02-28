@@ -6,12 +6,12 @@
   <h1> 🚀 Next Level Week 4! </h1>
 </div>
 
-
 <p align="center" >
-<a href="#-sobre-a-aplicacao">Sobre </a> &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
+<a href="#-sobre-a-aplica%C3%A7%C3%A3o"> Sobre </a> &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-conte%C3%BAdo-da-trilha"> Conteúdo da Trilha</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-instala%C3%A7%C3%A3o">Instalação</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-suporte"> Suporte </a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-licen%C3%A7a">Licença</a>
 </p>
 
@@ -26,17 +26,19 @@
 <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=4CD62B" alt="License">
 </p>
 
-
-<div align="top">
+<div align="center">
   <img src="https://github.com/Pedrovinhas/move-it/blob/master/github/moveit-mockup.png"/>
 </div>
 
 ## 📌 Sobre a aplicação
-O **Move.it** é uma aplicação de produtividade que alia a técnica de produtividade Pomodoro com exercícios saudáveis de alongamento. O projeto foi desenvolvido durante a Next Level Week 4 promovida pela RocketSeat, durante a trilha de React.
+O **Move.it** é uma aplicação de produtividade que alia a técnica Pomodoro com exercícios saudáveis de alongamento. O projeto foi desenvolvido durante a Next Level Week 4 promovida pela [RocketSeat](https://rocketseat.com.br/), durante a trilha de React e pelo professor 🎓 [Diego Fernandes](https://github.com/diego3g)
 
 ### 🍅 Pomodoro
-Pomodoro é um método de gerenciamento de tempo que consiste em fazer períodos de trabalhos ininterruptos de 25 minutos, e, após isso, um intervalo de 5 minutos. Ao final de 4
-ciclos de 25 minutos, é feita uma pausa de 30min.
+Pomodoro é um método de gerenciamento de tempo que consiste em fazer períodos de trabalhos ininterruptos de 25min, e, após isso, um intervalo de 5min. Ao final de 4
+ciclos de 25min, é feita uma pausa de 30min.
+
+### 💻 Deploy
+O deploy de aplicação pode ser consultado nesse link
 
 ## ⚙ Tecnologias
 
@@ -47,10 +49,7 @@ ciclos de 25 minutos, é feita uma pausa de 30min.
 - CSS3
 
 ### Back-End
-- TypeScript
 - NodeJS
-
-### Bibliotecas
 
 ## 📝 Conteúdo da Trilha
 
@@ -86,7 +85,7 @@ $ cd move-it
 # Instale as dependências
 $ npm install
 # or
-$ yarn install
+$ npm install -g yarn
 
 # Execute a aplicação em modo desenvolvedor
 $ npm run dev:server
@@ -95,9 +94,12 @@ $ yarn dev
 
 # A porta do servidor irá abrir no console: https://localhost:3000
 ```
+## 🥳 Suporte
+Se esse projeto te ajudou de alguma forma, deixe uma ⭐️!
+
 ## 📝 Licença
 
-This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ---
 <blockquote>
